@@ -1,0 +1,20 @@
+/* Main init */
+.card-style {
+    border: 1px solid black !important;
+    width: 15rem !important;
+}
+
+div .card-body:hover {
+    cursor: pointer;
+    color: white;
+    background-color: black !important;
+}
+
+.full-height-center {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+
+/* Main finish */

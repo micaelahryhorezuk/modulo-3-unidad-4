@@ -1,0 +1,36 @@
+/* Main init */
+
+p {
+    text-align: justify;
+    padding: 1em;
+    margin: 0;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+pre {
+    padding: 0;
+    margin: 0;
+}
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 1em;
+}
+
+.card-style {
+    border: 1px solid black !important;
+}
+
+button {
+    margin: 1em;
+}
+
+/* Main finish */

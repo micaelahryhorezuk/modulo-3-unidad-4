@@ -1,0 +1,24 @@
+/* Main init */
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1em;
+}
+
+.card-style {
+    border: 1px solid black !important;
+}
+
+.full-height-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+    gap: 1em;
+}
+
+/* Main finish */
